@@ -1,0 +1,4 @@
+baseURL = "http://ioletsgo.gay/"
+languageCode = "en-us"
+title = "blog.ioletsgo.gay"
+theme = "ioletsgo.gay"
