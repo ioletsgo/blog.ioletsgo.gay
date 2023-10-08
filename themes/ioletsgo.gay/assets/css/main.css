@@ -5,14 +5,25 @@
 }
 
 * {
-  line-height:1;
    font-family:ibmbios;
 /*     font-size:95%; */
 }
-h2 {
-    border-top-style:dashed;
+
+h1 {
+    padding-left:5%;
+    font-size:150%;
     border-bottom-style:dashed;
     border-width: 5px;
+}
+h2 {
+    padding:2%;
+    font-size:95%;
+    border-top-style:dashed;
+    border-bottom-style:none;
+    border-width: 5px;
+}
+h3 {
+    padding:5%;
 }
 body {
     background-color:black;
@@ -23,7 +34,11 @@ a {
 	text-decoration: none;
     color:yellow;
 }
+pre {
+    line-height:0.9;
+    font-size:60%;
 
+}
 hr {
   color:white;
   border: none;
@@ -31,7 +46,13 @@ hr {
     border-width: 5px;
 }
 p {
+    padding-left:1%;
     text-indent:50px;
+    line-height:1.1;
+}
+img {
+    margin:auto;
+    width:45%;
 }
 #logo {
 color:white;
@@ -75,7 +96,7 @@ color:white;
     top:17%;
     position:relative;
 /*     height: 60%; */
-    width:40vw;
+    width:calc(50% + 80px);
     margin: auto;
     background-color:black;
     color:white;
