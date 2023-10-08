@@ -7,6 +7,8 @@
 * {
    font-family:ibmbios;
 /*     font-size:95%; */
+    font-smooth: never;
+    -webkit-font-smoothing: none;
 }
 
 h1 {
