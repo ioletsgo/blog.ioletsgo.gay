@@ -10,7 +10,7 @@ Windows 7 is an operating system that runs near and dear to my heart.
 <!--more-->
 I do admit that I have a little bit of nostalgia towards Windows 7, from the skeuomorphism of the calculator app, to the lovely blues and cyans that fill the Frutiger Aero aesthetic. I have fond(ish) memories of filling up my family computer with all different types of malware. Exploring all these interesting osbcure websites that I probably only saw through advertisements or heard through word of mouth.
 
-![A screenshot of a Windows 7 desktop taken from an old Toshiba laptop](posts/win7/win7desktop.png)
+![A screenshot of a Windows 7 desktop taken from an old Toshiba laptop](/posts/win7/win7desktop.png)
 
 Windows 7 in my mind was the last era that we truly had "The Wild West" of the internet, and that's not necessarily a bad thing, *nor would I say it's a particularly great thing either*.
 
@@ -18,7 +18,7 @@ The way that I view how Windows 7 was utilized was in the types of malware or sc
 ## Lets look at some statistics! Yay!
 A chart from Statcounter GlobalStats shows us a map of Operating System usage in the 2012 year, with Windows 7 staying solidly in the 49-52 percentage.
 
-![a chart by Globalstats](posts/win7/globalstatschart.png)
+![a chart by Globalstats](/posts/win7/globalstatschart.png)
 
 Luckily for us, we have an rough number of how many computers not only were running Windows 7, but also how many of them were connected online in 2012, and that's only possible due to the [Carna Botnet](https://en.wikipedia.org/wiki/Carna_botnet). The Carna botnet was a nonmalicious entity that recorded pings on unsecured routers online. ([If you want to learn more information outside of broad strokes, may I recommend Jack Rhysider's Darknet Diaries episode on the Carna Botnet?](https://darknetdiaries.com/episode/13/)) All you really need to know about the Carna botnet for this post is that it recorded 1.3 billion active addresses and 729 million reported DNS records.Taking another statistic from [Statistica.com](https://www.statista.com/statistics/748551/worldwide-households-with-computer/), 41.4% of the worldwide population of 2012 had atleast one computer.
 
@@ -68,7 +68,7 @@ This created a direct line for people to financially profit from developing mali
 ## Ransomware and Bitcoin, Partners in Crime
 With the growth of Cryptocurrencies like Bitcoin and Ethereum, there had been a drastic increase in the cost of cybercrimes. In 2009 alone, the year Bitcoin was invented, there was an immediate doubling in the cost of cybercrimes, creating an exponential steepness or a parabola from that moment onwards.
 
-![A chart showing a timeline for the number of transactions for cryptocurrencies](posts/win7/transactionscrypto.png)![A chart showing a timeline for the cost of cybercrimes that have occurred, with the year that Bitcoin was created being marked](posts/win7/cybercrimechart.png)
+![A chart showing a timeline for the number of transactions for cryptocurrencies](/posts/win7/transactionscrypto.png)![A chart showing a timeline for the cost of cybercrimes that have occurred, with the year that Bitcoin was created being marked](posts/win7/cybercrimechart.png)
 
 As malware moved away from trojan adware to purely profits, you can see less attempts of malicious software attempting to gain user trust. The wild west of the internet is over, there is now no question what is and what isn't malware anymore. Nondestructive malware is almost as rare as nonmalicious software was back then.
 
