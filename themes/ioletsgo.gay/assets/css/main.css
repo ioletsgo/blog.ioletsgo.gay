@@ -3,7 +3,6 @@
    src: url(fonts/ibmbios.woff) format('woff');
 /*   src: url(fonts/ibmbios.ttf) format('ttf')*/
 }
-
 * {
    font-family:ibmbios;
 /*     font-size:95%; */
@@ -12,6 +11,7 @@
 }
 img {
     margin-left:auto;
+    width: 100%;
 }
 time {
     color:blue;
@@ -39,7 +39,7 @@ h2 {
 }
 h3 {
     img {
-        width:50%;
+        width:100%;
         display:block;
         margin:auto;
     }
