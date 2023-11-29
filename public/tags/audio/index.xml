@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog.ioletsgo.gay</title>
+    <image>
+    <url>https://ioletsgo.gay/Assets/they.png</url>
+    <title>Favicon for ioletsgo.gay</title>
+    <link>https://blog.ioletsgo.gay</link>
+  </image>
+    <link>http://ioletsgo.gay/tags/audio/</link>
+    <description>Recent content from blog.ioletsgo.gay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Apr 2023 09:09:19 -0500</lastBuildDate><atom:link href="http://ioletsgo.gay/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The DSI, Flipnote Studio, and The Quest For The Best Mic Quality.</title>
+      <link>http://ioletsgo.gay/posts/dsiaudio/</link>
+      <pubDate>Mon, 03 Apr 2023 09:09:19 -0500</pubDate>
+      
+      <guid>http://ioletsgo.gay/posts/dsiaudio/</guid>
+      <description>&lt;p&gt;The DSi is a funny little guy.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

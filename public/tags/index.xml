@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog.ioletsgo.gay</title>
+    <image>
+    <url>https://ioletsgo.gay/Assets/they.png</url>
+    <title>Favicon for ioletsgo.gay</title>
+    <link>https://blog.ioletsgo.gay</link>
+  </image>
+    <link>http://ioletsgo.gay/tags/</link>
+    <description>Recent content from blog.ioletsgo.gay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2023 13:50:02 -0600</lastBuildDate><atom:link href="http://ioletsgo.gay/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

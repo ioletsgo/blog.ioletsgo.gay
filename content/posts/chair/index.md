@@ -4,6 +4,7 @@ date = 2023-02-15T00:00:00-00:00
 draft = false
 tags = ['Tech', 'Desk']
 +++
+# ![A banner of a jack frost plushy sitting on a new office chair](/posts/chair/banner.png)
 
 I recently got a new chair, and it made me start to think about ergonomics a lot more.
 
@@ -16,7 +17,7 @@ For something that I got on deal for $30, I think it was more than a good bargai
 
 However, there's only one type of chair I think would be worse...
 
-![Picture of a chair marketed towards Gamers](/posts/chair/gamingchair.jpeg)
+### ![Picture of a chair marketed towards Gamers](/posts/chair/gamingchair.jpeg)
 ## Gaming chairs are NOT good!
 (and here's why)
 
@@ -25,7 +26,7 @@ They are designed to protect against large and sudden G-Forces, not for comfort 
 
 Bucket seats are designed so that you would tense up, especially around your shoulders, when mixed with the chest breathing technique, which a lot of people don't even know is a terrible way to breath, means that you are making yourself more and more uncomfortable just by sitting on a chair.
 
-![Diagram of proper and improper breathing technique, chairs that take inspiration from bucket seats encourage improper breathing techniques at the benefit of preserving life in high G-force enviroments](/posts/chair/breathing-diagram.png)
+### ![Diagram of proper and improper breathing technique, chairs that take inspiration from bucket seats encourage improper breathing techniques at the benefit of preserving life in high G-force enviroments](/posts/chair/breathing-diagram.png)
 ## Ergonomics VS Comfort, A Battle of Frenemies
 
 Truth is, I have a ridiculously small desk.
@@ -34,13 +35,13 @@ It's dimentions are 31x18.5 inches, and sans an elevated platform at the back, t
 ![Picture of a blank desk with a deskmat, lamp, and mouse](deske1.jpg)![An overview of a blank desk with a deskmat, lamp, and mouse](/posts/chair/deske2.jpg)
 With a deskmat, Mechanical Keyboard, some games, maybe a plushy or two, a CD Player, and a bunch of other bits and bops, it really does start to feel like home.
 
-![Picture of a desk full of sentimental materials with a laptop pearched ontop of an elevated section in the back](/posts/chair/desk.jpg)
+### ![Picture of a desk full of sentimental materials with a laptop pearched ontop of an elevated section in the back](/posts/chair/desk.jpg)
 
 Notice the large space between the mouse and the keyboard. This was intenionally done to prevent Carpal Tunnel, through minimizing as many intersections my arms have to deal with on a regular basis.
 
 The position of my laptop is a deliberate choice, as to prevent neckpain. Proper office ergonomics states that you shouldn't have to move your head down to look at your screen.
 
-![A diagram showing proper laptop/monitor placement to encourage the best posture](https://www.gvsu.edu/cms4/asset/30F6D8A1-9140-75C7-2CAACF4A83B9D5A8/monitor_angle%5B1427479542%5D.jpg)
+### ![A diagram showing proper laptop/monitor placement to encourage the best posture](https://www.gvsu.edu/cms4/asset/30F6D8A1-9140-75C7-2CAACF4A83B9D5A8/monitor_angle%5B1427479542%5D.jpg)
 
 The elevated platform is simply a convienent alternative to the advised laptop stand in the diagram above
 
