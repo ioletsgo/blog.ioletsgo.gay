@@ -2,7 +2,7 @@
 title = 'Windows 7, eWaste, and the modern day Malware'
 date = 2023-02-23T05:33:20-05:00
 draft = false
-tags = ['Tech', 'Malware', ]
+tags = ['Tech', 'Malware','History','Politics']
 +++
 # ![A banner using the Windows 7 Desktop background](/posts/win7/banner.png)
 
