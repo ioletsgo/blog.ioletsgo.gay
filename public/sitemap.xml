@@ -2,33 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ioletsgo.gay/tags/desk/</loc>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tech/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/programming/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/y2k/</loc>
+    <lastmod>2024-01-01T22:44:43-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2024-01-01T22:44:43-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/politics/</loc>
+    <lastmod>2024-01-01T22:44:43-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/podcasts/</loc>
+    <lastmod>2023-11-05T13:50:02-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/socialmedia/</loc>
+    <lastmod>2023-10-12T19:59:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/desk/</loc>
     <lastmod>2023-07-01T09:15:49-05:00</lastmod>
   </url><url>
-    <loc>http://ioletsgo.gay/posts/computer/</loc>
+    <loc>http://localhost:1313/posts/computer/</loc>
     <lastmod>2023-07-01T09:15:49-05:00</lastmod>
   </url><url>
-    <loc>http://ioletsgo.gay/posts/</loc>
-    <lastmod>2023-07-01T09:15:49-05:00</lastmod>
-  </url><url>
-    <loc>http://ioletsgo.gay/tags/</loc>
-    <lastmod>2023-07-01T09:15:49-05:00</lastmod>
-  </url><url>
-    <loc>http://ioletsgo.gay/tags/tech/</loc>
-    <lastmod>2023-07-01T09:15:49-05:00</lastmod>
-  </url><url>
-    <loc>http://ioletsgo.gay/tags/malware/</loc>
+    <loc>http://localhost:1313/tags/malware/</loc>
     <lastmod>2023-02-23T05:33:20-05:00</lastmod>
   </url><url>
-    <loc>http://ioletsgo.gay/posts/win7/</loc>
+    <loc>http://localhost:1313/posts/win7/</loc>
     <lastmod>2023-02-23T05:33:20-05:00</lastmod>
   </url><url>
-    <loc>http://ioletsgo.gay/posts/chair/</loc>
+    <loc>http://localhost:1313/posts/chair/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ioletsgo.gay/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://ioletsgo.gay/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

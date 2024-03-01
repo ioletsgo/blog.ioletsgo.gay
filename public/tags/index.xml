@@ -7,10 +7,10 @@
     <title>Favicon for ioletsgo.gay</title>
     <link>https://blog.ioletsgo.gay</link>
   </image>
-    <link>http://ioletsgo.gay/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content from blog.ioletsgo.gay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 09:15:49 -0500</lastBuildDate><atom:link href="http://ioletsgo.gay/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Feb 2024 22:12:18 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
