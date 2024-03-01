@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/y2k/</loc>
-    <lastmod>2024-02-29T22:44:43-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/history/</loc>
-    <lastmod>2024-02-29T22:44:43-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/politics/</loc>
-    <lastmod>2024-02-29T22:44:43-06:00</lastmod>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-02-29T22:44:43-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-02-29T22:44:43-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
-    <lastmod>2024-02-29T22:44:43-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/learning/</loc>
     <lastmod>2024-02-29T22:12:18-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2024-02-29T22:12:18-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tech/</loc>
+    <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/programming/</loc>
     <lastmod>2024-02-29T22:12:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/y2k/</loc>
+    <lastmod>2024-02-29T20:44:43-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2024-02-29T20:44:43-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/politics/</loc>
+    <lastmod>2024-02-29T20:44:43-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/podcasts/</loc>
     <lastmod>2023-11-05T13:50:02-06:00</lastmod>

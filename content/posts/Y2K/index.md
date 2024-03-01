@@ -1,6 +1,6 @@
 +++
 title = 'Confronting Y2K: The Forgotten war against the infamous computer bug'
-date = 2024-02-29T22:44:43-06:00
+date = 2024-02-29T20:44:43-06:00
 draft = false
 tags = ['Tech','History','Politics']
 +++
