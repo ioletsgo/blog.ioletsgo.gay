@@ -1,7 +1,7 @@
 +++
 title = 'Algorithms, and how they shift our minds'
 date = 2024-03-01T08:28:51-06:00
-draft = false
+draft = true
 tags = ['Tech', 'Psychology', 'Politics']
 +++
 # ![Banner for Algorithms, and how they shift our minds](/posts/algorithms/banner.png)
