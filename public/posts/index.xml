@@ -11,7 +11,16 @@
     <description>Recent content from blog.ioletsgo.gay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Feb 2024 22:12:18 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 08:28:51 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms, and how they shift our minds</title>
+      <link>http://localhost:1313/posts/algorithms/</link>
+      <pubDate>Fri, 01 Mar 2024 08:28:51 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/algorithms/</guid>
+      <description>&lt;p&gt;I oftentimes hear phrases from boomers like &lt;code&gt;&amp;quot;Social Media is ROTTING Your Brain!&amp;quot;&lt;/code&gt;, and, while they may not be able to explain the difference between a Pentium and a Ryzen, maybe they&amp;rsquo;re not absolutely braindead in their assumptions.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The Quest To Learn Programming: Prerequisites</title>
       <link>http://localhost:1313/posts/programming/</link>
@@ -76,30 +85,6 @@
 &lt;a href=&#34;https://web.archive.org/web/20170930160439fw_/http://archive.defense.gov/specials/y2k/y2k_hist.htm&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/y2k/history.png&#34; alt=&#34;A screenshot from the Y2K History section of the website&#34;&gt;&lt;/a&gt;
 Probably the funniest section has to be the uncertainty in the last sentence.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;January 1, 2000 -- All systems go?&lt;/code&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Ballad of Podcast Hell</title>
-      <link>http://localhost:1313/posts/podcasts/</link>
-      <pubDate>Sun, 05 Nov 2023 13:50:02 -0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/podcasts/</guid>
-      <description>&lt;h1 id=&#34;a-screenshot-of-the-podcast-client-gpodders-500-error-pagepostspodcastsbannerpng&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/podcasts/banner.png&#34; alt=&#34;A screenshot of the Podcast client gpodder&amp;rsquo;s 500 error page&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;It should come as no surprise that I like podcasts. My preferred method to listen to those podcasts causes headaches, however.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Twitter, and how algorithms shape the human mind</title>
-      <link>http://localhost:1313/posts/socialmedia/</link>
-      <pubDate>Thu, 12 Oct 2023 19:59:51 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/socialmedia/</guid>
-      <description>&lt;p&gt;We live in an age where people are constantly inundated with information on a regular basis.&lt;/p&gt;
-&lt;h1 id=&#34;a-satirical-take-on-phone-bad-book-good-boomer-comics-where-more-people-are-looking-at-a-laptop-labeled-boob-than-there-are-people-reading-a-book-called-bookpostssocialmediabookvsboobjpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/socialmedia/bookvsboob.jpg&#34; alt=&#34;A satirical take on &amp;ldquo;phone bad book good&amp;rdquo; boomer comics, where more people are looking at a laptop labeled &amp;ldquo;BooB&amp;rdquo; than there are people reading a book called &amp;ldquo;Book&amp;rdquo;&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;To prevent this from becoming a common story of &amp;ldquo;phone bad book good&amp;rdquo;, I would like to say that I was born into the &amp;ldquo;Information Age&amp;rdquo;, It isn&amp;rsquo;t like I&amp;rsquo;m some 60 year old boomer who remembers a time when the &lt;a href=&#34;https://youtu.be/wpXnqBfgvPM?si=x-eC0euN3YAQyu98&amp;amp;t=229&#34;&gt;TX-0&lt;/a&gt; was new and innovative.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-an-algorithm&#34;&gt;What IS An algorithm&lt;/h2&gt;
-&lt;p&gt;For the purpose of the conversation at hand, I have a feeling very few people actually know what an algorithm is. What you&amp;rsquo;d have to know for this post is the following:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;An Algorith is a mathematical formula or set of formulas designed for a specific purpose or for a desired outcome.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -1,7 +1,7 @@
 +++
 title = 'The Quest To Learn Programming: Prerequisites'
 date = 2024-02-29T22:12:18-06:00
-draft = false
+draft = true
 tags = ['Tech','Programming','Learning']
 +++
 # ![Banner for The Quest To Learn Programming: Prerequisites](/posts/programming/banner.png)

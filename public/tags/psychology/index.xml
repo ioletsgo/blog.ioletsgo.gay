@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog.ioletsgo.gay</title>
+    <image>
+    <url>https://ioletsgo.gay/Assets/they.png</url>
+    <title>Favicon for ioletsgo.gay</title>
+    <link>https://blog.ioletsgo.gay</link>
+  </image>
+    <link>http://localhost:1313/tags/psychology/</link>
+    <description>Recent content from blog.ioletsgo.gay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2024 08:28:51 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/psychology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms, and how they shift our minds</title>
+      <link>http://localhost:1313/posts/algorithms/</link>
+      <pubDate>Fri, 01 Mar 2024 08:28:51 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/algorithms/</guid>
+      <description>&lt;h1 id=&#34;banner-for-algorithms-and-how-they-shift-our-mindspostsalgorithmsbannerpng&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/algorithms/banner.png&#34; alt=&#34;Banner for Algorithms, and how they shift our minds&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;I oftentimes hear phrases from boomers like &lt;code&gt;&amp;quot;Social Media is ROTTING Your Brain!&amp;quot;&lt;/code&gt;, and, while they may not be able to explain the difference between a Pentium and a Ryzen, maybe they&amp;rsquo;re not absolutely braindead in their assumptions.&lt;/p&gt;
+&lt;p&gt;I think it should come as no surprise when I make the following statement:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;* Our surroundings influence how we function in our day to day lives.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Its a pretty surface level observation when you think about it. Our environment can greatly influence us, even with our genetics and what can be observed with our phenotypes.&lt;/p&gt;
+&lt;p&gt;So I don&amp;rsquo;t necessarily believe it would be hard to surmise that the same, or atleast something very similar, can be said about our brain.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
