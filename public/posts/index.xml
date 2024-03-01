@@ -11,33 +11,15 @@
     <description>Recent content from blog.ioletsgo.gay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Feb 2024 22:12:18 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Quest To Learn Programming: Prerequisites</title>
-      <link>http://localhost:1313/posts/programming/</link>
-      <pubDate>Thu, 29 Feb 2024 22:12:18 -0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/programming/</guid>
-      <description>&lt;h1 id=&#34;banner-for-the-quest-to-learn-programming-prerequisitespostsprogrammingbannerpng&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/programming/banner.png&#34; alt=&#34;Banner for The Quest To Learn Programming: Prerequisites&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;Despite my knowledge in computers, I&amp;rsquo;ve never been able to really sit myself down and learn programming. I&amp;rsquo;m not saying it was never out of me not trying.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve always been fascinated by computers, some of my earliest memories involve loading an old Dell laptop with so many viruses it constituted as a threat to national security.&lt;/p&gt;
-&lt;p&gt;I don&amp;rsquo;t want to give you the whole &lt;code&gt;&amp;quot;in 1981 the IBM Personal Computer was invented&amp;quot;&lt;/code&gt; talk cause, while I think its important, I don&amp;rsquo;t want to parrot the entire history of the personal computer, UNIX systems, DOS, etc etc.&lt;/p&gt;
-&lt;p&gt;If you want an interesting look into the history of computers, I would probably recommend &lt;a href=&#34;https://www.youtube.com/@ComputerChroniclesYT&#34;&gt;The Computer Chronicles&lt;/a&gt;, beautifully archived on Youtube by Danooct1&lt;/p&gt;
-&lt;p&gt;How I see it, computers are relatively simple devices that are able to do a lot of complicated maths due to make interesting things happen. While I don&amp;rsquo;t necessarily want to enter from the deep end using x86 Assembly off the bat, I&amp;rsquo;m an inquisitive mind and I have a tendency to ask a lot of questions that leads to &lt;code&gt;&amp;quot;Well, In x86 assembly...&amp;quot;&lt;/code&gt;, which can be both annoying and demotivating if I don&amp;rsquo;t have the necessary resources to ask and get answers for complicated questions.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;I don&#39;t want to be the type of person that doesn&#39;t understand why or how programming works&lt;/code&gt;, which is why I made an unusual purchase of a programming textbook&amp;ndash; Particularly, the C++ Programming Language 4th Edition Hard Cover by Bjarne Stroustrup.&lt;/p&gt;
-&lt;h3 id=&#34;the-cover-of-the-c-programming-language-fourth-edition-textbookpostsprogrammingcppbookjpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/programming/CPPBook.jpg&#34; alt=&#34;The cover of the C++ Programming Language Fourth Edition Textbook&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;My intended goal is to be able to record my journey of using this resource, possibly in hopes to encourage others who are in a very similar position to me, the massive textbook being a constant physical reminder and motivator for me to learn.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s fucking learn I guess.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Thu, 29 Feb 2024 22:44:43 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Confronting Y2K: The Forgotten war against the infamous computer bug</title>
       <link>http://localhost:1313/posts/y2k/</link>
-      <pubDate>Mon, 01 Jan 2024 22:44:43 -0600</pubDate>
+      <pubDate>Thu, 29 Feb 2024 22:44:43 -0600</pubDate>
       
       <guid>http://localhost:1313/posts/y2k/</guid>
       <description>&lt;h1 id=&#34;banner-for-confronting-y2k-the-forgotten-war-against-the-infamous-computer-bugpostsy2kbannerpng&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/y2k/banner.png&#34; alt=&#34;Banner for Confronting Y2K: The forgotten war against the infamous computer bug&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;Its a new year, which I think makes it an appropriate time to talk about the New Years Disaster that could&amp;rsquo;ve been.&lt;/p&gt;
+&lt;p&gt;Its leap day (making this an excuse to publish this blogpost), which means some systems with refuse to work, and I think makes it more than an appropriate time to talk about the New Years Disaster that could&amp;rsquo;ve been.&lt;/p&gt;
 &lt;p&gt;More and more, every year, You hear a growing narrative from younger individuals, whom I am a part of, who weren&amp;rsquo;t alive or weren&amp;rsquo;t in tech spaces at the time, where they largely disregard the threat that was y2k. Thomas from hachyderm.io said the following thing which led to me actually making this blogpost:
 &lt;a href=&#34;https://hachyderm.io/@thomasfuchs/111682921557572060&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/y2k/ThomasPost.png&#34; alt=&#34;lol at people trying to retcon history and pretend the Y2K bug wasn&amp;rsquo;t real. I literally worked for like a year from late 1998 to the end of 1999 to fix databases of utility companies and health systems to not, you know, completely and utterly fail come January 1st, 2000.&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;It reminded me of something I remembered from browsing the wayback machine. An archive of the Department Of Defense &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks#List_of_assigned_/8_blocks_to_the_United_States_Department_of_Defense&#34;&gt;(cough cough)&lt;/a&gt; website which was a valuable source of information leading up to years about proactive and preventative measures to take towards minimizing the potential impacts of Y2K.
@@ -76,6 +58,24 @@
 &lt;a href=&#34;https://web.archive.org/web/20170930160439fw_/http://archive.defense.gov/specials/y2k/y2k_hist.htm&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/y2k/history.png&#34; alt=&#34;A screenshot from the Y2K History section of the website&#34;&gt;&lt;/a&gt;
 Probably the funniest section has to be the uncertainty in the last sentence.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;January 1, 2000 -- All systems go?&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Quest To Learn Programming: Prerequisites</title>
+      <link>http://localhost:1313/posts/programming/</link>
+      <pubDate>Thu, 29 Feb 2024 22:12:18 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/programming/</guid>
+      <description>&lt;h1 id=&#34;banner-for-the-quest-to-learn-programming-prerequisitespostsprogrammingbannerpng&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/programming/banner.png&#34; alt=&#34;Banner for The Quest To Learn Programming: Prerequisites&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;Despite my knowledge in computers, I&amp;rsquo;ve never been able to really sit myself down and learn programming. I&amp;rsquo;m not saying it was never out of me not trying.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always been fascinated by computers, some of my earliest memories involve loading an old Dell laptop with so many viruses it constituted as a threat to national security.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t want to give you the whole &lt;code&gt;&amp;quot;in 1981 the IBM Personal Computer was invented&amp;quot;&lt;/code&gt; talk cause, while I think its important, I don&amp;rsquo;t want to parrot the entire history of the personal computer, UNIX systems, DOS, etc etc.&lt;/p&gt;
+&lt;p&gt;If you want an interesting look into the history of computers, I would probably recommend &lt;a href=&#34;https://www.youtube.com/@ComputerChroniclesYT&#34;&gt;The Computer Chronicles&lt;/a&gt;, beautifully archived on Youtube by Danooct1&lt;/p&gt;
+&lt;p&gt;How I see it, computers are relatively simple devices that are able to do a lot of complicated maths due to make interesting things happen. While I don&amp;rsquo;t necessarily want to enter from the deep end using x86 Assembly off the bat, I&amp;rsquo;m an inquisitive mind and I have a tendency to ask a lot of questions that leads to &lt;code&gt;&amp;quot;Well, In x86 assembly...&amp;quot;&lt;/code&gt;, which can be both annoying and demotivating if I don&amp;rsquo;t have the necessary resources to ask and get answers for complicated questions.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I don&#39;t want to be the type of person that doesn&#39;t understand why or how programming works&lt;/code&gt;, which is why I made an unusual purchase of a programming textbook&amp;ndash; Particularly, the C++ Programming Language 4th Edition Hard Cover by Bjarne Stroustrup.&lt;/p&gt;
+&lt;h3 id=&#34;the-cover-of-the-c-programming-language-fourth-edition-textbookpostsprogrammingcppbookjpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/posts/programming/CPPBook.jpg&#34; alt=&#34;The cover of the C++ Programming Language Fourth Edition Textbook&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;My intended goal is to be able to record my journey of using this resource, possibly in hopes to encourage others who are in a very similar position to me, the massive textbook being a constant physical reminder and motivator for me to learn.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s fucking learn I guess.&lt;/p&gt;</description>
     </item>
     
     <item>

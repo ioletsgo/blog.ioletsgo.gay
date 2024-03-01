@@ -1,11 +1,11 @@
 +++
 title = 'Confronting Y2K: The Forgotten war against the infamous computer bug'
-date = 2024-01-01T22:44:43-06:00
-draft = true
+date = 2024-02-29T22:44:43-06:00
+draft = false
 tags = ['Tech','History','Politics']
 +++
 # ![Banner for Confronting Y2K: The forgotten war against the infamous computer bug](/posts/y2k/banner.png)
-Its a new year, which I think makes it an appropriate time to talk about the New Years Disaster that could've been.
+Its leap day (making this an excuse to publish this blogpost), which means some systems with refuse to work, and I think makes it more than an appropriate time to talk about the New Years Disaster that could've been.
 <!--more-->
 
 More and more, every year, You hear a growing narrative from younger individuals, whom I am a part of, who weren't alive or weren't in tech spaces at the time, where they largely disregard the threat that was y2k. Thomas from hachyderm.io said the following thing which led to me actually making this blogpost:
